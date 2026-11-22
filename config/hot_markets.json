@@ -1,0 +1,31 @@
+{
+ "note": "Exchanges where trades printed >= 0.10 from Kalshi fair most on 2 Oct (25 of 237 carried 96% of that edge). maker.py gives them bigger, tighter sweep catchers (--hot-*). Rebuild from a fresh trade-tape study.",
+ "built": "2026-10-03T01:05Z",
+ "exchanges": {
+  "840": "Will the Democratic Party win the U.S. House?",
+  "1077": "Will the Republican Party win the Rhode Island Senate?",
+  "1069": "Will the Republican Party win the Massachusetts Senate?",
+  "1071": "Will the Republican Party win the New Hampshire Senate?",
+  "864": "Will the Republican Party win the Maryland Governor?",
+  "1076": "Will the Democratic Party win the Rhode Island Senate?",
+  "963": "Will the Democratic Party win the Montana Senate?",
+  "1059": "Will the Democratic Party win the Massachusetts Governor?",
+  "1005": "Will the Democratic Party win the Wyoming Governor?",
+  "994": "Will the Democratic Party win the Michigan Governor?",
+  "1036": "Will the Democratic Party win the WA-03 House race?",
+  "1067": "Will the Republican Party win the Alaska Senate?",
+  "870": "Will the Republican Party win the New Mexico Governor?",
+  "991": "Will the Republican Party win the Hawaii Governor?",
+  "841": "Will the Republican Party win the U.S. House?",
+  "966": "Will the Democratic Party win the North Carolina Senate?",
+  "1044": "Will the Republican Party win the Florida Senate?",
+  "978": "Will the Democratic Party win the South Carolina Senate?",
+  "1054": "Will the Democratic Party win the Wyoming Senate?",
+  "1037": "Will the Republican Party win the WA-03 House race?",
+  "929": "Will the Republican Party win the PA-10 House race?",
+  "959": "Will the Democratic Party win the Maine Senate?",
+  "1025": "Will the Democratic Party win the MN-02 House race?",
+  "1075": "Will the Republican Party win the Delaware Senate?",
+  "1074": "Will the Republican Party win the Rhode Island Governor?"
+ }
+}

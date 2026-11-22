@@ -1,0 +1,2806 @@
+{
+ "saved": "2026-10-02T06:14:21.000Z",
+ "tournamentId": "bda92870-621e-47b0-bc3c-3602c5c26f55",
+ "markets": [
+  {
+   "id": "151",
+   "title": "Will the Democratic Party win the U.S. House?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "840"
+    }
+   ]
+  },
+  {
+   "id": "152",
+   "title": "Will the Republican Party win the U.S. House?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "841"
+    }
+   ]
+  },
+  {
+   "id": "153",
+   "title": "Will the Democratic Party win the U.S. Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "842"
+    }
+   ]
+  },
+  {
+   "id": "154",
+   "title": "Will the Republican Party win the U.S. Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "843"
+    }
+   ]
+  },
+  {
+   "id": "155",
+   "title": "Will the Democratic Party win the Alabama Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "844"
+    }
+   ]
+  },
+  {
+   "id": "156",
+   "title": "Will the Republican Party win the Alabama Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "845"
+    }
+   ]
+  },
+  {
+   "id": "368",
+   "title": "Will the Democratic Party win the Alaska Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1057"
+    }
+   ]
+  },
+  {
+   "id": "369",
+   "title": "Will the Republican Party win the Alaska Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1058"
+    }
+   ]
+  },
+  {
+   "id": "159",
+   "title": "Will the Democratic Party win the Arizona Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "848"
+    }
+   ]
+  },
+  {
+   "id": "160",
+   "title": "Will the Republican Party win the Arizona Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "849"
+    }
+   ]
+  },
+  {
+   "id": "157",
+   "title": "Will the Democratic Party win the Arkansas Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "846"
+    }
+   ]
+  },
+  {
+   "id": "158",
+   "title": "Will the Republican Party win the Arkansas Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "847"
+    }
+   ]
+  },
+  {
+   "id": "161",
+   "title": "Will the Democratic Party win the California Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "850"
+    }
+   ]
+  },
+  {
+   "id": "162",
+   "title": "Will the Republican Party win the California Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "851"
+    }
+   ]
+  },
+  {
+   "id": "163",
+   "title": "Will the Democratic Party win the Colorado Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "852"
+    }
+   ]
+  },
+  {
+   "id": "164",
+   "title": "Will the Republican Party win the Colorado Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "853"
+    }
+   ]
+  },
+  {
+   "id": "298",
+   "title": "Will the Democratic Party win the Connecticut Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "987"
+    }
+   ]
+  },
+  {
+   "id": "165",
+   "title": "Will the Republican Party win the Connecticut Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "854"
+    }
+   ]
+  },
+  {
+   "id": "299",
+   "title": "Will the Democratic Party win the Florida Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "988"
+    }
+   ]
+  },
+  {
+   "id": "300",
+   "title": "Will the Republican Party win the Florida Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "989"
+    }
+   ]
+  },
+  {
+   "id": "166",
+   "title": "Will the Democratic Party win the Georgia Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "855"
+    }
+   ]
+  },
+  {
+   "id": "167",
+   "title": "Will the Republican Party win the Georgia Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "856"
+    }
+   ]
+  },
+  {
+   "id": "301",
+   "title": "Will the Democratic Party win the Hawaii Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "990"
+    }
+   ]
+  },
+  {
+   "id": "302",
+   "title": "Will the Republican Party win the Hawaii Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "991"
+    }
+   ]
+  },
+  {
+   "id": "170",
+   "title": "Will the Democratic Party win the Idaho Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "859"
+    }
+   ]
+  },
+  {
+   "id": "171",
+   "title": "Will the Republican Party win the Idaho Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "860"
+    }
+   ]
+  },
+  {
+   "id": "172",
+   "title": "Will the Democratic Party win the Illinois Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "861"
+    }
+   ]
+  },
+  {
+   "id": "173",
+   "title": "Will the Republican Party win the Illinois Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "862"
+    }
+   ]
+  },
+  {
+   "id": "168",
+   "title": "Will the Democratic Party win the Iowa Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "857"
+    }
+   ]
+  },
+  {
+   "id": "169",
+   "title": "Will the Republican Party win the Iowa Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "858"
+    }
+   ]
+  },
+  {
+   "id": "303",
+   "title": "Will the Democratic Party win the Kansas Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "992"
+    }
+   ]
+  },
+  {
+   "id": "304",
+   "title": "Will the Republican Party win the Kansas Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "993"
+    }
+   ]
+  },
+  {
+   "id": "176",
+   "title": "Will the Democratic Party win the Maine Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "865"
+    }
+   ]
+  },
+  {
+   "id": "177",
+   "title": "Will the Republican Party win the Maine Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "866"
+    }
+   ]
+  },
+  {
+   "id": "174",
+   "title": "Will the Democratic Party win the Maryland Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "863"
+    }
+   ]
+  },
+  {
+   "id": "175",
+   "title": "Will the Republican Party win the Maryland Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "864"
+    }
+   ]
+  },
+  {
+   "id": "370",
+   "title": "Will the Democratic Party win the Massachusetts Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1059"
+    }
+   ]
+  },
+  {
+   "id": "371",
+   "title": "Will the Republican Party win the Massachusetts Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1060"
+    }
+   ]
+  },
+  {
+   "id": "305",
+   "title": "Will the Democratic Party win the Michigan Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "994"
+    }
+   ]
+  },
+  {
+   "id": "306",
+   "title": "Will the Republican Party win the Michigan Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "995"
+    }
+   ]
+  },
+  {
+   "id": "307",
+   "title": "Will the Democratic Party win the Minnesota Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "996"
+    }
+   ]
+  },
+  {
+   "id": "308",
+   "title": "Will the Republican Party win the Minnesota Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "997"
+    }
+   ]
+  },
+  {
+   "id": "178",
+   "title": "Will the Democratic Party win the Nebraska Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "867"
+    }
+   ]
+  },
+  {
+   "id": "179",
+   "title": "Will the Republican Party win the Nebraska Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "868"
+    }
+   ]
+  },
+  {
+   "id": "182",
+   "title": "Will the Democratic Party win the Nevada Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "871"
+    }
+   ]
+  },
+  {
+   "id": "183",
+   "title": "Will the Republican Party win the Nevada Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "872"
+    }
+   ]
+  },
+  {
+   "id": "372",
+   "title": "Will the Democratic Party win the New Hampshire Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1061"
+    }
+   ]
+  },
+  {
+   "id": "373",
+   "title": "Will the Republican Party win the New Hampshire Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1062"
+    }
+   ]
+  },
+  {
+   "id": "180",
+   "title": "Will the Democratic Party win the New Mexico Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "869"
+    }
+   ]
+  },
+  {
+   "id": "181",
+   "title": "Will the Republican Party win the New Mexico Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "870"
+    }
+   ]
+  },
+  {
+   "id": "184",
+   "title": "Will the Democratic Party win the New York Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "873"
+    }
+   ]
+  },
+  {
+   "id": "185",
+   "title": "Will the Republican Party win the New York Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "874"
+    }
+   ]
+  },
+  {
+   "id": "186",
+   "title": "Will the Democratic Party win the Oklahoma Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "875"
+    }
+   ]
+  },
+  {
+   "id": "374",
+   "title": "Will the Republican Party win the Oklahoma Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1063"
+    }
+   ]
+  },
+  {
+   "id": "187",
+   "title": "Will the Democratic Party win the Oregon Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "876"
+    }
+   ]
+  },
+  {
+   "id": "188",
+   "title": "Will the Republican Party win the Oregon Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "877"
+    }
+   ]
+  },
+  {
+   "id": "189",
+   "title": "Will the Democratic Party win the Pennsylvania Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "878"
+    }
+   ]
+  },
+  {
+   "id": "190",
+   "title": "Will the Republican Party win the Pennsylvania Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "879"
+    }
+   ]
+  },
+  {
+   "id": "384",
+   "title": "Will the Democratic Party win the Rhode Island Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1073"
+    }
+   ]
+  },
+  {
+   "id": "191",
+   "title": "Will the Independent Party win the Rhode Island Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "880"
+    }
+   ]
+  },
+  {
+   "id": "385",
+   "title": "Will the Republican Party win the Rhode Island Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1074"
+    }
+   ]
+  },
+  {
+   "id": "192",
+   "title": "Will the Democratic Party win the South Carolina Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "881"
+    }
+   ]
+  },
+  {
+   "id": "193",
+   "title": "Will the Republican Party win the South Carolina Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "882"
+    }
+   ]
+  },
+  {
+   "id": "194",
+   "title": "Will the Democratic Party win the South Dakota Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "883"
+    }
+   ]
+  },
+  {
+   "id": "309",
+   "title": "Will the Republican Party win the South Dakota Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "998"
+    }
+   ]
+  },
+  {
+   "id": "310",
+   "title": "Will the Democratic Party win the Tennessee Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "999"
+    }
+   ]
+  },
+  {
+   "id": "311",
+   "title": "Will the Republican Party win the Tennessee Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1000"
+    }
+   ]
+  },
+  {
+   "id": "195",
+   "title": "Will the Democratic Party win the Texas Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "884"
+    }
+   ]
+  },
+  {
+   "id": "196",
+   "title": "Will the Republican Party win the Texas Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "885"
+    }
+   ]
+  },
+  {
+   "id": "312",
+   "title": "Will the Democratic Party win the Vermont Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1001"
+    }
+   ]
+  },
+  {
+   "id": "313",
+   "title": "Will the Republican Party win the Vermont Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1002"
+    }
+   ]
+  },
+  {
+   "id": "314",
+   "title": "Will the Democratic Party win the Wisconsin Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1003"
+    }
+   ]
+  },
+  {
+   "id": "315",
+   "title": "Will the Republican Party win the Wisconsin Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1004"
+    }
+   ]
+  },
+  {
+   "id": "316",
+   "title": "Will the Democratic Party win the Wyoming Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1005"
+    }
+   ]
+  },
+  {
+   "id": "317",
+   "title": "Will the Republican Party win the Wyoming Governor?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1006"
+    }
+   ]
+  },
+  {
+   "id": "318",
+   "title": "Will the Democratic Party win the AL-02 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1007"
+    }
+   ]
+  },
+  {
+   "id": "319",
+   "title": "Will the Republican Party win the AL-02 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1008"
+    }
+   ]
+  },
+  {
+   "id": "197",
+   "title": "Will the Democratic Party win the AZ-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "886"
+    }
+   ]
+  },
+  {
+   "id": "198",
+   "title": "Will the Republican Party win the AZ-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "887"
+    }
+   ]
+  },
+  {
+   "id": "199",
+   "title": "Will the Democratic Party win the AZ-06 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "888"
+    }
+   ]
+  },
+  {
+   "id": "200",
+   "title": "Will the Republican Party win the AZ-06 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "889"
+    }
+   ]
+  },
+  {
+   "id": "201",
+   "title": "Will the Democratic Party win the CA-22 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "890"
+    }
+   ]
+  },
+  {
+   "id": "202",
+   "title": "Will the Republican Party win the CA-22 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "891"
+    }
+   ]
+  },
+  {
+   "id": "203",
+   "title": "Will the Democratic Party win the CA-48 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "892"
+    }
+   ]
+  },
+  {
+   "id": "204",
+   "title": "Will the Republican Party win the CA-48 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "893"
+    }
+   ]
+  },
+  {
+   "id": "205",
+   "title": "Will the Democratic Party win the CO-03 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "894"
+    }
+   ]
+  },
+  {
+   "id": "206",
+   "title": "Will the Republican Party win the CO-03 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "895"
+    }
+   ]
+  },
+  {
+   "id": "207",
+   "title": "Will the Democratic Party win the CO-04 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "896"
+    }
+   ]
+  },
+  {
+   "id": "208",
+   "title": "Will the Republican Party win the CO-04 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "897"
+    }
+   ]
+  },
+  {
+   "id": "209",
+   "title": "Will the Democratic Party win the CO-08 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "898"
+    }
+   ]
+  },
+  {
+   "id": "210",
+   "title": "Will the Republican Party win the CO-08 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "899"
+    }
+   ]
+  },
+  {
+   "id": "320",
+   "title": "Will the Democratic Party win the FL-07 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1009"
+    }
+   ]
+  },
+  {
+   "id": "321",
+   "title": "Will the Republican Party win the FL-07 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1010"
+    }
+   ]
+  },
+  {
+   "id": "211",
+   "title": "Will the Democratic Party win the FL-09 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "900"
+    }
+   ]
+  },
+  {
+   "id": "322",
+   "title": "Will the Republican Party win the FL-09 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1011"
+    }
+   ]
+  },
+  {
+   "id": "323",
+   "title": "Will the Democratic Party win the FL-13 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1012"
+    }
+   ]
+  },
+  {
+   "id": "212",
+   "title": "Will the Republican Party win the FL-13 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "901"
+    }
+   ]
+  },
+  {
+   "id": "324",
+   "title": "Will the Democratic Party win the FL-16 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1013"
+    }
+   ]
+  },
+  {
+   "id": "325",
+   "title": "Will the Republican Party win the FL-16 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1014"
+    }
+   ]
+  },
+  {
+   "id": "326",
+   "title": "Will the Democratic Party win the FL-20 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1015"
+    }
+   ]
+  },
+  {
+   "id": "327",
+   "title": "Will the Republican Party win the FL-20 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1016"
+    }
+   ]
+  },
+  {
+   "id": "328",
+   "title": "Will the Democratic Party win the FL-22 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1017"
+    }
+   ]
+  },
+  {
+   "id": "329",
+   "title": "Will the Republican Party win the FL-22 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1018"
+    }
+   ]
+  },
+  {
+   "id": "213",
+   "title": "Will the Democratic Party win the IA-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "902"
+    }
+   ]
+  },
+  {
+   "id": "214",
+   "title": "Will the Republican Party win the IA-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "903"
+    }
+   ]
+  },
+  {
+   "id": "215",
+   "title": "Will the Democratic Party win the IA-02 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "904"
+    }
+   ]
+  },
+  {
+   "id": "216",
+   "title": "Will the Republican Party win the IA-02 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "905"
+    }
+   ]
+  },
+  {
+   "id": "217",
+   "title": "Will the Democratic Party win the IA-03 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "906"
+    }
+   ]
+  },
+  {
+   "id": "218",
+   "title": "Will the Republican Party win the IA-03 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "907"
+    }
+   ]
+  },
+  {
+   "id": "219",
+   "title": "Will the Democratic Party win the KY-04 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "908"
+    }
+   ]
+  },
+  {
+   "id": "220",
+   "title": "Will the Republican Party win the KY-04 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "909"
+    }
+   ]
+  },
+  {
+   "id": "221",
+   "title": "Will the Democratic Party win the ME-02 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "910"
+    }
+   ]
+  },
+  {
+   "id": "222",
+   "title": "Will the Republican Party win the ME-02 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "911"
+    }
+   ]
+  },
+  {
+   "id": "330",
+   "title": "Will the Democratic Party win the MI-07 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1019"
+    }
+   ]
+  },
+  {
+   "id": "331",
+   "title": "Will the Republican Party win the MI-07 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1020"
+    }
+   ]
+  },
+  {
+   "id": "332",
+   "title": "Will the Democratic Party win the MI-10 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1021"
+    }
+   ]
+  },
+  {
+   "id": "333",
+   "title": "Will the Republican Party win the MI-10 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1022"
+    }
+   ]
+  },
+  {
+   "id": "334",
+   "title": "Will the Democratic Party win the MN-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1023"
+    }
+   ]
+  },
+  {
+   "id": "335",
+   "title": "Will the Republican Party win the MN-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1024"
+    }
+   ]
+  },
+  {
+   "id": "336",
+   "title": "Will the Democratic Party win the MN-02 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1025"
+    }
+   ]
+  },
+  {
+   "id": "337",
+   "title": "Will the Republican Party win the MN-02 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1026"
+    }
+   ]
+  },
+  {
+   "id": "338",
+   "title": "Will the Democratic Party win the MN-05 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1027"
+    }
+   ]
+  },
+  {
+   "id": "339",
+   "title": "Will the Republican Party win the MN-05 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1028"
+    }
+   ]
+  },
+  {
+   "id": "223",
+   "title": "Will the Democratic Party win the MT-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "912"
+    }
+   ]
+  },
+  {
+   "id": "224",
+   "title": "Will the Republican Party win the MT-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "913"
+    }
+   ]
+  },
+  {
+   "id": "225",
+   "title": "Will the Democratic Party win the NE-02 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "914"
+    }
+   ]
+  },
+  {
+   "id": "226",
+   "title": "Will the Republican Party win the NE-02 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "915"
+    }
+   ]
+  },
+  {
+   "id": "375",
+   "title": "Will the Democratic Party win the NH-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1064"
+    }
+   ]
+  },
+  {
+   "id": "376",
+   "title": "Will the Republican Party win the NH-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1065"
+    }
+   ]
+  },
+  {
+   "id": "227",
+   "title": "Will the Democratic Party win the NJ-07 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "916"
+    }
+   ]
+  },
+  {
+   "id": "228",
+   "title": "Will the Republican Party win the NJ-07 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "917"
+    }
+   ]
+  },
+  {
+   "id": "229",
+   "title": "Will the Democratic Party win the NY-13 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "918"
+    }
+   ]
+  },
+  {
+   "id": "230",
+   "title": "Will the Republican Party win the NY-13 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "919"
+    }
+   ]
+  },
+  {
+   "id": "231",
+   "title": "Will the Democratic Party win the NY-17 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "920"
+    }
+   ]
+  },
+  {
+   "id": "232",
+   "title": "Will the Republican Party win the NY-17 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "921"
+    }
+   ]
+  },
+  {
+   "id": "233",
+   "title": "Will the Democratic Party win the PA-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "922"
+    }
+   ]
+  },
+  {
+   "id": "234",
+   "title": "Will the Republican Party win the PA-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "923"
+    }
+   ]
+  },
+  {
+   "id": "235",
+   "title": "Will the Democratic Party win the PA-07 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "924"
+    }
+   ]
+  },
+  {
+   "id": "236",
+   "title": "Will the Republican Party win the PA-07 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "925"
+    }
+   ]
+  },
+  {
+   "id": "237",
+   "title": "Will the Democratic Party win the PA-08 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "926"
+    }
+   ]
+  },
+  {
+   "id": "238",
+   "title": "Will the Republican Party win the PA-08 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "927"
+    }
+   ]
+  },
+  {
+   "id": "239",
+   "title": "Will the Democratic Party win the PA-10 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "928"
+    }
+   ]
+  },
+  {
+   "id": "240",
+   "title": "Will the Republican Party win the PA-10 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "929"
+    }
+   ]
+  },
+  {
+   "id": "241",
+   "title": "Will the Democratic Party win the SC-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "930"
+    }
+   ]
+  },
+  {
+   "id": "242",
+   "title": "Will the Republican Party win the SC-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "931"
+    }
+   ]
+  },
+  {
+   "id": "340",
+   "title": "Will the Democratic Party win the TN-05 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1029"
+    }
+   ]
+  },
+  {
+   "id": "341",
+   "title": "Will the Republican Party win the TN-05 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1030"
+    }
+   ]
+  },
+  {
+   "id": "243",
+   "title": "Will the Democratic Party win the TX-15 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "932"
+    }
+   ]
+  },
+  {
+   "id": "244",
+   "title": "Will the Republican Party win the TX-15 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "933"
+    }
+   ]
+  },
+  {
+   "id": "245",
+   "title": "Will the Democratic Party win the TX-23 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "934"
+    }
+   ]
+  },
+  {
+   "id": "246",
+   "title": "Will the Republican Party win the TX-23 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "935"
+    }
+   ]
+  },
+  {
+   "id": "247",
+   "title": "Will the Democratic Party win the TX-28 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "936"
+    }
+   ]
+  },
+  {
+   "id": "248",
+   "title": "Will the Republican Party win the TX-28 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "937"
+    }
+   ]
+  },
+  {
+   "id": "342",
+   "title": "Will the Democratic Party win the VA-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1031"
+    }
+   ]
+  },
+  {
+   "id": "249",
+   "title": "Will the Republican Party win the VA-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "938"
+    }
+   ]
+  },
+  {
+   "id": "343",
+   "title": "Will the Democratic Party win the VA-02 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1032"
+    }
+   ]
+  },
+  {
+   "id": "250",
+   "title": "Will the Republican Party win the VA-02 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "939"
+    }
+   ]
+  },
+  {
+   "id": "344",
+   "title": "Will the Democratic Party win the VA-05 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1033"
+    }
+   ]
+  },
+  {
+   "id": "345",
+   "title": "Will the Republican Party win the VA-05 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1034"
+    }
+   ]
+  },
+  {
+   "id": "251",
+   "title": "Will the Democratic Party win the VA-07 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "940"
+    }
+   ]
+  },
+  {
+   "id": "346",
+   "title": "Will the Republican Party win the VA-07 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1035"
+    }
+   ]
+  },
+  {
+   "id": "347",
+   "title": "Will the Democratic Party win the WA-03 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1036"
+    }
+   ]
+  },
+  {
+   "id": "348",
+   "title": "Will the Republican Party win the WA-03 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1037"
+    }
+   ]
+  },
+  {
+   "id": "349",
+   "title": "Will the Democratic Party win the WI-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1038"
+    }
+   ]
+  },
+  {
+   "id": "350",
+   "title": "Will the Republican Party win the WI-01 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1039"
+    }
+   ]
+  },
+  {
+   "id": "351",
+   "title": "Will the Democratic Party win the WI-03 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1040"
+    }
+   ]
+  },
+  {
+   "id": "352",
+   "title": "Will the Republican Party win the WI-03 House race?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1041"
+    }
+   ]
+  },
+  {
+   "id": "252",
+   "title": "Will the Democratic Party win the Alabama Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "941"
+    }
+   ]
+  },
+  {
+   "id": "253",
+   "title": "Will the Republican Party win the Alabama Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "942"
+    }
+   ]
+  },
+  {
+   "id": "377",
+   "title": "Will the Democratic Party win the Alaska Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1066"
+    }
+   ]
+  },
+  {
+   "id": "378",
+   "title": "Will the Republican Party win the Alaska Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1067"
+    }
+   ]
+  },
+  {
+   "id": "254",
+   "title": "Will the Democratic Party win the Arkansas Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "943"
+    }
+   ]
+  },
+  {
+   "id": "255",
+   "title": "Will the Republican Party win the Arkansas Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "944"
+    }
+   ]
+  },
+  {
+   "id": "256",
+   "title": "Will the Democratic Party win the Colorado Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "945"
+    }
+   ]
+  },
+  {
+   "id": "257",
+   "title": "Will the Republican Party win the Colorado Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "946"
+    }
+   ]
+  },
+  {
+   "id": "353",
+   "title": "Will the Democratic Party win the Delaware Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1042"
+    }
+   ]
+  },
+  {
+   "id": "386",
+   "title": "Will the Republican Party win the Delaware Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1075"
+    }
+   ]
+  },
+  {
+   "id": "354",
+   "title": "Will the Democratic Party win the Florida Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1043"
+    }
+   ]
+  },
+  {
+   "id": "355",
+   "title": "Will the Republican Party win the Florida Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1044"
+    }
+   ]
+  },
+  {
+   "id": "258",
+   "title": "Will the Democratic Party win the Georgia Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "947"
+    }
+   ]
+  },
+  {
+   "id": "259",
+   "title": "Will the Republican Party win the Georgia Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "948"
+    }
+   ]
+  },
+  {
+   "id": "262",
+   "title": "Will the Democratic Party win the Idaho Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "951"
+    }
+   ]
+  },
+  {
+   "id": "263",
+   "title": "Will the Republican Party win the Idaho Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "952"
+    }
+   ]
+  },
+  {
+   "id": "264",
+   "title": "Will the Democratic Party win the Illinois Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "953"
+    }
+   ]
+  },
+  {
+   "id": "265",
+   "title": "Will the Republican Party win the Illinois Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "954"
+    }
+   ]
+  },
+  {
+   "id": "260",
+   "title": "Will the Democratic Party win the Iowa Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "949"
+    }
+   ]
+  },
+  {
+   "id": "261",
+   "title": "Will the Republican Party win the Iowa Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "950"
+    }
+   ]
+  },
+  {
+   "id": "356",
+   "title": "Will the Democratic Party win the Kansas Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1045"
+    }
+   ]
+  },
+  {
+   "id": "357",
+   "title": "Will the Republican Party win the Kansas Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1046"
+    }
+   ]
+  },
+  {
+   "id": "266",
+   "title": "Will the Democratic Party win the Kentucky Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "955"
+    }
+   ]
+  },
+  {
+   "id": "267",
+   "title": "Will the Republican Party win the Kentucky Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "956"
+    }
+   ]
+  },
+  {
+   "id": "268",
+   "title": "Will the Democratic Party win the Louisiana Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "957"
+    }
+   ]
+  },
+  {
+   "id": "269",
+   "title": "Will the Republican Party win the Louisiana Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "958"
+    }
+   ]
+  },
+  {
+   "id": "270",
+   "title": "Will the Democratic Party win the Maine Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "959"
+    }
+   ]
+  },
+  {
+   "id": "271",
+   "title": "Will the Republican Party win the Maine Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "960"
+    }
+   ]
+  },
+  {
+   "id": "379",
+   "title": "Will the Democratic Party win the Massachusetts Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1068"
+    }
+   ]
+  },
+  {
+   "id": "380",
+   "title": "Will the Republican Party win the Massachusetts Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1069"
+    }
+   ]
+  },
+  {
+   "id": "358",
+   "title": "Will the Democratic Party win the Michigan Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1047"
+    }
+   ]
+  },
+  {
+   "id": "359",
+   "title": "Will the Republican Party win the Michigan Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1048"
+    }
+   ]
+  },
+  {
+   "id": "360",
+   "title": "Will the Democratic Party win the Minnesota Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1049"
+    }
+   ]
+  },
+  {
+   "id": "361",
+   "title": "Will the Republican Party win the Minnesota Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1050"
+    }
+   ]
+  },
+  {
+   "id": "272",
+   "title": "Will the Democratic Party win the Mississippi Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "961"
+    }
+   ]
+  },
+  {
+   "id": "273",
+   "title": "Will the Republican Party win the Mississippi Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "962"
+    }
+   ]
+  },
+  {
+   "id": "274",
+   "title": "Will the Democratic Party win the Montana Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "963"
+    }
+   ]
+  },
+  {
+   "id": "276",
+   "title": "Will the Independent Party win the Montana Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "965"
+    }
+   ]
+  },
+  {
+   "id": "275",
+   "title": "Will the Republican Party win the Montana Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "964"
+    }
+   ]
+  },
+  {
+   "id": "279",
+   "title": "Will the Democratic Party win the Nebraska Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "968"
+    }
+   ]
+  },
+  {
+   "id": "280",
+   "title": "Will the Independent Party win the Nebraska Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "969"
+    }
+   ]
+  },
+  {
+   "id": "281",
+   "title": "Will the Republican Party win the Nebraska Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "970"
+    }
+   ]
+  },
+  {
+   "id": "381",
+   "title": "Will the Democratic Party win the New Hampshire Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1070"
+    }
+   ]
+  },
+  {
+   "id": "382",
+   "title": "Will the Republican Party win the New Hampshire Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1071"
+    }
+   ]
+  },
+  {
+   "id": "282",
+   "title": "Will the Democratic Party win the New Jersey Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "971"
+    }
+   ]
+  },
+  {
+   "id": "283",
+   "title": "Will the Republican Party win the New Jersey Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "972"
+    }
+   ]
+  },
+  {
+   "id": "284",
+   "title": "Will the Democratic Party win the New Mexico Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "973"
+    }
+   ]
+  },
+  {
+   "id": "285",
+   "title": "Will the Republican Party win the New Mexico Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "974"
+    }
+   ]
+  },
+  {
+   "id": "277",
+   "title": "Will the Democratic Party win the North Carolina Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "966"
+    }
+   ]
+  },
+  {
+   "id": "278",
+   "title": "Will the Republican Party win the North Carolina Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "967"
+    }
+   ]
+  },
+  {
+   "id": "383",
+   "title": "Will the Democratic Party win the Oklahoma Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1072"
+    }
+   ]
+  },
+  {
+   "id": "286",
+   "title": "Will the Republican Party win the Oklahoma Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "975"
+    }
+   ]
+  },
+  {
+   "id": "287",
+   "title": "Will the Democratic Party win the Oregon Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "976"
+    }
+   ]
+  },
+  {
+   "id": "288",
+   "title": "Will the Republican Party win the Oregon Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "977"
+    }
+   ]
+  },
+  {
+   "id": "387",
+   "title": "Will the Democratic Party win the Rhode Island Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1076"
+    }
+   ]
+  },
+  {
+   "id": "388",
+   "title": "Will the Republican Party win the Rhode Island Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1077"
+    }
+   ]
+  },
+  {
+   "id": "289",
+   "title": "Will the Democratic Party win the South Carolina Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "978"
+    }
+   ]
+  },
+  {
+   "id": "290",
+   "title": "Will the Republican Party win the South Carolina Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "979"
+    }
+   ]
+  },
+  {
+   "id": "291",
+   "title": "Will the Democratic Party win the South Dakota Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "980"
+    }
+   ]
+  },
+  {
+   "id": "292",
+   "title": "Will the Republican Party win the South Dakota Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "981"
+    }
+   ]
+  },
+  {
+   "id": "362",
+   "title": "Will the Democratic Party win the Tennessee Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1051"
+    }
+   ]
+  },
+  {
+   "id": "363",
+   "title": "Will the Republican Party win the Tennessee Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1052"
+    }
+   ]
+  },
+  {
+   "id": "293",
+   "title": "Will the Democratic Party win the Texas Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "982"
+    }
+   ]
+  },
+  {
+   "id": "294",
+   "title": "Will the Republican Party win the Texas Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "983"
+    }
+   ]
+  },
+  {
+   "id": "295",
+   "title": "Will the Democratic Party win the Virginia Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "984"
+    }
+   ]
+  },
+  {
+   "id": "364",
+   "title": "Will the Republican Party win the Virginia Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1053"
+    }
+   ]
+  },
+  {
+   "id": "296",
+   "title": "Will the Democratic Party win the West Virginia Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "985"
+    }
+   ]
+  },
+  {
+   "id": "297",
+   "title": "Will the Republican Party win the West Virginia Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "986"
+    }
+   ]
+  },
+  {
+   "id": "365",
+   "title": "Will the Democratic Party win the Wyoming Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1054"
+    }
+   ]
+  },
+  {
+   "id": "366",
+   "title": "Will the Republican Party win the Wyoming Senate?",
+   "status": "open",
+   "exchanges": [
+    {
+     "id": "1055"
+    }
+   ]
+  }
+ ],
+ "kalshi": {
+  "840": "CONTROLH-2026-D",
+  "841": "CONTROLH-2026-R",
+  "842": "CONTROLS-2026-D",
+  "843": "CONTROLS-2026-R",
+  "844": "GOVPARTYAL-26-D",
+  "845": "GOVPARTYAL-26-R",
+  "848": "GOVPARTYAZ-26-D",
+  "849": "GOVPARTYAZ-26-R",
+  "846": "GOVPARTYAR-26-D",
+  "847": "GOVPARTYAR-26-R",
+  "850": "GOVPARTYCA-26-D",
+  "851": "GOVPARTYCA-26-R",
+  "852": "GOVPARTYCO-26-D",
+  "853": "GOVPARTYCO-26-R",
+  "987": "GOVPARTYCT-26-D",
+  "854": "GOVPARTYCT-26-R",
+  "988": "GOVPARTYFL-26-D",
+  "989": "GOVPARTYFL-26-R",
+  "855": "GOVPARTYGA-26-D",
+  "856": "GOVPARTYGA-26-R",
+  "990": "GOVPARTYHI-26-D",
+  "991": "GOVPARTYHI-26-R",
+  "859": "GOVPARTYID-26-D",
+  "860": "GOVPARTYID-26-R",
+  "861": "GOVPARTYIL-26-D",
+  "862": "GOVPARTYIL-26-R",
+  "857": "GOVPARTYIA-26-D",
+  "858": "GOVPARTYIA-26-R",
+  "992": "GOVPARTYKS-27-D",
+  "993": "GOVPARTYKS-27-R",
+  "865": "GOVPARTYME-26-D",
+  "866": "GOVPARTYME-26-R",
+  "863": "GOVPARTYMD-26-D",
+  "864": "GOVPARTYMD-26-R",
+  "1059": "GOVPARTYMA-26-D",
+  "1060": "GOVPARTYMA-26-R",
+  "994": "GOVPARTYMI-26-D",
+  "995": "GOVPARTYMI-26-R",
+  "996": "GOVPARTYMN-26-D",
+  "997": "GOVPARTYMN-26-R",
+  "867": "GOVPARTYNE-26-D",
+  "868": "GOVPARTYNE-26-R",
+  "871": "GOVPARTYNV-26-D",
+  "872": "GOVPARTYNV-26-R",
+  "869": "GOVPARTYNM-26-D",
+  "870": "GOVPARTYNM-26-R",
+  "873": "GOVPARTYNY-26-D",
+  "874": "GOVPARTYNY-26-R",
+  "875": "GOVPARTYOK-26-D",
+  "1063": "GOVPARTYOK-26-R",
+  "876": "GOVPARTYOR-26-D",
+  "877": "GOVPARTYOR-26-R",
+  "878": "GOVPARTYPA-26-D",
+  "879": "GOVPARTYPA-26-R",
+  "1073": "GOVPARTYRI-26-D",
+  "880": "GOVPARTYRI-26-KBLO",
+  "1074": "GOVPARTYRI-26-R",
+  "881": "GOVPARTYSC-26-D",
+  "882": "GOVPARTYSC-26-R",
+  "883": "GOVPARTYSD-26-D",
+  "998": "GOVPARTYSD-26-R",
+  "999": "GOVPARTYTN-26-D",
+  "1000": "GOVPARTYTN-26-R",
+  "884": "GOVPARTYTX-26-D",
+  "885": "GOVPARTYTX-26-R",
+  "1001": "GOVPARTYVT-26-D",
+  "1002": "GOVPARTYVT-26-R",
+  "1003": "GOVPARTYWI-26-D",
+  "1004": "GOVPARTYWI-26-R",
+  "1005": "GOVPARTYWY-26-D",
+  "1006": "GOVPARTYWY-26-R",
+  "886": "HOUSEAZ1-26-D",
+  "887": "HOUSEAZ1-26-R",
+  "888": "HOUSEAZ6-26-D",
+  "889": "HOUSEAZ6-26-R",
+  "890": "HOUSECA22-26-D",
+  "891": "HOUSECA22-26-R",
+  "894": "HOUSECO3-26-D",
+  "895": "HOUSECO3-26-R",
+  "898": "HOUSECO8-26-D",
+  "899": "HOUSECO8-26-R",
+  "1012": "HOUSEFL13-26-D",
+  "901": "HOUSEFL13-26-R",
+  "902": "HOUSEIA1-26-D",
+  "903": "HOUSEIA1-26-R",
+  "906": "HOUSEIA3-26-D",
+  "907": "HOUSEIA3-26-R",
+  "910": "HOUSEME2-26-D",
+  "911": "HOUSEME2-26-R",
+  "1019": "HOUSEMI7-26-D",
+  "1020": "HOUSEMI7-26-R",
+  "1021": "HOUSEMI10-26-D",
+  "1022": "HOUSEMI10-26-R",
+  "1025": "HOUSEMN2-26-D",
+  "1026": "HOUSEMN2-26-R",
+  "912": "HOUSEMT1-26-D",
+  "913": "HOUSEMT1-26-R",
+  "914": "HOUSENE2-26-D",
+  "915": "HOUSENE2-26-R",
+  "1064": "HOUSENH1-26-D",
+  "1065": "HOUSENH1-26-R",
+  "916": "HOUSENJ7-26-D",
+  "917": "HOUSENJ7-26-R",
+  "920": "HOUSENY17-26-D",
+  "921": "HOUSENY17-26-R",
+  "922": "HOUSEPA1-26-D",
+  "923": "HOUSEPA1-26-R",
+  "924": "HOUSEPA7-26-D",
+  "925": "HOUSEPA7-26-R",
+  "926": "HOUSEPA8-26-D",
+  "927": "HOUSEPA8-26-R",
+  "928": "HOUSEPA10-26-D",
+  "929": "HOUSEPA10-26-R",
+  "932": "HOUSETX15-26-D",
+  "933": "HOUSETX15-26-R",
+  "936": "HOUSETX28-26-D",
+  "937": "HOUSETX28-26-R",
+  "1031": "HOUSEVA1-26-D",
+  "938": "HOUSEVA1-26-R",
+  "1032": "HOUSEVA2-26-D",
+  "939": "HOUSEVA2-26-R",
+  "940": "HOUSEVA7-26-D",
+  "1035": "HOUSEVA7-26-R",
+  "1036": "HOUSEWA3-26-D",
+  "1037": "HOUSEWA3-26-R",
+  "1038": "HOUSEWI1-26-D",
+  "1039": "HOUSEWI1-26-R",
+  "1040": "HOUSEWI3-26-D",
+  "1041": "HOUSEWI3-26-R",
+  "941": "SENATEAL-26-D",
+  "942": "SENATEAL-26-R",
+  "1066": "SENATEAK-26-D",
+  "1067": "SENATEAK-26-R",
+  "943": "SENATEAR-26-D",
+  "944": "SENATEAR-26-R",
+  "945": "SENATECO-26-D",
+  "946": "SENATECO-26-R",
+  "1042": "SENATEDE-26-D",
+  "1075": "SENATEDE-26-R",
+  "1043": "SENATEFLS-26-D",
+  "1044": "SENATEFLS-26-R",
+  "947": "SENATEGA-26-D",
+  "948": "SENATEGA-26-R",
+  "951": "SENATEID-26-D",
+  "952": "SENATEID-26-R",
+  "953": "SENATEIL-26-D",
+  "954": "SENATEIL-26-R",
+  "949": "SENATEIA-26-D",
+  "950": "SENATEIA-26-R",
+  "1045": "SENATEKS-26-D",
+  "1046": "SENATEKS-26-R",
+  "957": "SENATELA-26-D",
+  "958": "SENATELA-26-R",
+  "959": "SENATEME-26-D",
+  "960": "SENATEME-26-R",
+  "1068": "SENATEMA-26-D",
+  "1069": "SENATEMA-26-R",
+  "1047": "SENATEMI-26-D",
+  "1048": "SENATEMI-26-R",
+  "1049": "SENATEMN-26-D",
+  "1050": "SENATEMN-26-R",
+  "961": "SENATEMS-26-D",
+  "962": "SENATEMS-26-R",
+  "963": "SENATEMT-26-D",
+  "965": "SENATEMT-26-IND",
+  "964": "SENATEMT-26-R",
+  "968": "SENATENE-26-D",
+  "969": "SENATENE-26-DOSB",
+  "970": "SENATENE-26-R",
+  "1070": "SENATENH-26-D",
+  "1071": "SENATENH-26-R",
+  "971": "SENATENJ-26-D",
+  "972": "SENATENJ-26-R",
+  "973": "SENATENM-26-D",
+  "974": "SENATENM-26-R",
+  "966": "SENATENC-26-D",
+  "967": "SENATENC-26-R",
+  "1072": "SENATEOK-26-D",
+  "975": "SENATEOK-26-R",
+  "976": "SENATEOR-26-D",
+  "977": "SENATEOR-26-R",
+  "1076": "SENATERI-26-D",
+  "1077": "SENATERI-26-R",
+  "978": "SENATESC-26-D",
+  "979": "SENATESC-26-R",
+  "980": "SENATESD-26-D",
+  "981": "SENATESD-26-R",
+  "1051": "SENATETN-26-D",
+  "1052": "SENATETN-26-R",
+  "982": "SENATETX-26-D",
+  "983": "SENATETX-26-R",
+  "984": "SENATEVA-26-D",
+  "1053": "SENATEVA-26-R",
+  "985": "SENATEWV-26-D",
+  "986": "SENATEWV-26-R",
+  "1054": "SENATEWY-26-D",
+  "1055": "SENATEWY-26-R"
+ },
+ "polymarket": {
+  "840": "562802",
+  "841": "562803",
+  "842": "562793",
+  "843": "562794",
+  "844": "629270",
+  "845": "629271",
+  "846": "629283",
+  "847": "629284",
+  "848": "629183",
+  "849": "629184",
+  "852": "629296",
+  "853": "629297",
+  "854": "629312",
+  "855": "629337",
+  "856": "629338",
+  "857": "629397",
+  "858": "629398",
+  "859": "629363",
+  "860": "629364",
+  "861": "629376",
+  "862": "629377",
+  "863": "629438",
+  "864": "629439",
+  "865": "629425",
+  "866": "629426",
+  "867": "629490",
+  "868": "629491",
+  "869": "629531",
+  "870": "629532",
+  "871": "629505",
+  "872": "629506",
+  "873": "629544",
+  "874": "629545",
+  "875": "629570",
+  "876": "629583",
+  "877": "629584",
+  "878": "629614",
+  "879": "629615",
+  "880": "629629",
+  "881": "629640",
+  "882": "629641",
+  "883": "629653",
+  "884": "629690",
+  "885": "629691",
+  "886": "942084",
+  "887": "942082",
+  "888": "942162",
+  "889": "942159",
+  "892": "1282825",
+  "893": "1282824",
+  "894": "942304",
+  "895": "942301",
+  "896": "1282881",
+  "897": "1282880",
+  "898": "942325",
+  "899": "942324",
+  "900": "1283017",
+  "901": "942400",
+  "902": "942433",
+  "903": "942432",
+  "904": "1283289",
+  "905": "1283288",
+  "906": "942445",
+  "907": "942444",
+  "908": "1283569",
+  "909": "1283568",
+  "910": "3006483",
+  "911": "3006482",
+  "912": "942843",
+  "913": "942841",
+  "914": "942878",
+  "915": "942877",
+  "916": "942979",
+  "917": "942978",
+  "918": "1284299",
+  "919": "1284298",
+  "920": "943441",
+  "921": "943440",
+  "922": "943749",
+  "923": "943748",
+  "924": "943797",
+  "925": "943796",
+  "926": "943943",
+  "927": "943942",
+  "928": "943955",
+  "929": "943954",
+  "930": "1284672",
+  "931": "1284671",
+  "932": "944201",
+  "933": "944199",
+  "934": "1284960",
+  "935": "1284959",
+  "936": "944222",
+  "937": "944221",
+  "938": "944281",
+  "939": "944289",
+  "940": "944298",
+  "941": "630627",
+  "942": "630628",
+  "943": "630653",
+  "944": "630654",
+  "945": "630666",
+  "946": "630667",
+  "947": "630692",
+  "948": "630693",
+  "949": "630733",
+  "950": "630734",
+  "951": "630705",
+  "952": "630706",
+  "953": "630720",
+  "954": "630721",
+  "955": "630759",
+  "956": "630760",
+  "957": "634878",
+  "958": "634879",
+  "959": "630772",
+  "960": "630773",
+  "961": "631017",
+  "962": "631018",
+  "963": "630831",
+  "964": "630832",
+  "965": "630833",
+  "966": "630883",
+  "967": "630884",
+  "968": "634891",
+  "969": "634893",
+  "970": "634892",
+  "971": "630857",
+  "972": "630858",
+  "973": "630870",
+  "974": "630871",
+  "975": "631031",
+  "976": "630898",
+  "977": "630899",
+  "978": "630924",
+  "979": "630925",
+  "980": "630937",
+  "981": "630938",
+  "982": "630963",
+  "983": "630964",
+  "984": "630976",
+  "985": "630989",
+  "986": "630990",
+  "987": "629311",
+  "988": "629324",
+  "989": "629325",
+  "990": "629350",
+  "991": "629351",
+  "992": "629412",
+  "993": "629413",
+  "994": "629464",
+  "995": "629465",
+  "996": "629477",
+  "997": "629478",
+  "998": "629654",
+  "999": "629666",
+  "1000": "629667",
+  "1001": "629707",
+  "1002": "629708",
+  "1003": "629720",
+  "1004": "629721",
+  "1005": "629733",
+  "1006": "629734",
+  "1007": "1280801",
+  "1008": "1280800",
+  "1009": "1283001",
+  "1010": "1283000",
+  "1011": "1283016",
+  "1012": "942401",
+  "1013": "1283065",
+  "1014": "1283064",
+  "1015": "1283097",
+  "1016": "1283096",
+  "1017": "1283113",
+  "1018": "1283112",
+  "1019": "942722",
+  "1020": "942721",
+  "1021": "942776",
+  "1022": "942774",
+  "1023": "1283849",
+  "1024": "1283848",
+  "1025": "942820",
+  "1026": "942819",
+  "1027": "1283873",
+  "1028": "1283872",
+  "1029": "1284768",
+  "1030": "1284767",
+  "1031": "944282",
+  "1032": "944290",
+  "1033": "1285080",
+  "1034": "1285079",
+  "1035": "944297",
+  "1036": "944314",
+  "1037": "944313",
+  "1038": "944334",
+  "1039": "944333",
+  "1040": "944342",
+  "1041": "944341",
+  "1042": "630679",
+  "1043": "631044",
+  "1044": "631045",
+  "1045": "630746",
+  "1046": "630747",
+  "1047": "630805",
+  "1048": "630806",
+  "1049": "630818",
+  "1050": "630819",
+  "1051": "630950",
+  "1052": "630951",
+  "1053": "630977",
+  "1054": "631002",
+  "1055": "631003",
+  "1059": "629451",
+  "1060": "629452",
+  "1061": "629518",
+  "1062": "629519",
+  "1063": "629571",
+  "1064": "942910",
+  "1065": "942909",
+  "1068": "630790",
+  "1069": "630791",
+  "1070": "630844",
+  "1071": "630845",
+  "1072": "631030",
+  "1073": "629627",
+  "1074": "629628",
+  "1075": "630680",
+  "1076": "630911",
+  "1077": "630912"
+ }
+}

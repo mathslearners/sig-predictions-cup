@@ -1,0 +1,3 @@
+# Your own fair probabilities. These beat Kalshi/Polymarket for that race/party.
+# race uses SIG's wording (e.g. "Maine Senate", "Arizona 6th District House"); party is R, D or I; p in (0,1).
+race,party,p

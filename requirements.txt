@@ -1,0 +1,7 @@
+requests>=2.31
+python-dotenv>=1.0
+websocket-client>=1.6
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8   # docs/make_figures.py
+# optional: pandas, scikit-learn (research/fill_model.py), brotli (sigbot/desk.py)
